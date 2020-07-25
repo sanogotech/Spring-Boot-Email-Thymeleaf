@@ -1,6 +1,6 @@
-package com.devnakka.email.repository;
+package com.devnakka.thymeleaf.repository;
 
-import com.devnakka.email.model.Student;
+import com.devnakka.thymeleaf.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

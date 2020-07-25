@@ -1,4 +1,4 @@
-package com.devnakka.email;
+package com.devnakka.thymeleaf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
